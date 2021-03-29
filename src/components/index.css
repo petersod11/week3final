@@ -1,0 +1,53 @@
+body {
+    background-image:url(https://images.unsplash.com/photo-1519452575417-564c1401ecc0?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80);
+  }
+
+  .header{
+      padding: 25px 0;
+      margin-left:2em;
+      margin-right:2em;
+      text-align: center;
+      font: 20px;
+      color:gold;
+      background: darkblue;
+      border-style: solid;
+      border-color: gold;
+  }
+
+  .form{
+      color: gold;
+      text-align:center;
+      padding-bottom:15px;
+      margin-top:5em;
+      margin-left:10em;
+      margin-right:10em;
+      border-style:solid;
+      background: darkblue;
+
+  }
+
+  .Navbar{
+      color:gold;
+  }
+
+  .homepage{
+    color: gold;
+    text-align:center;
+    padding-bottom:15px;
+    margin-top:5em;
+    margin-left:10em;
+    margin-right:10em;
+    border-style:solid;
+    background: darkblue;
+
+  }
+  .homepage > ul{
+    text-align: center;
+    list-style-position: inside;
+      
+  }
+
+  a{
+      color: gold;
+      padding: 10px;
+  }
